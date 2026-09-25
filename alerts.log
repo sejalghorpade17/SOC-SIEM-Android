@@ -1,0 +1,4 @@
+2026-09-25 20:12:03 WARNING Multiple failed login attempts detected
+2026-09-25 20:12:10 WARNING Failed login attempt from 192.168.0.50
+2026-09-25 20:12:18 ALERT Brute-force pattern detected
+2026-09-25 20:14:21 WARNING Suspicious network activity detected
