@@ -35,39 +35,6 @@ The project includes system information collection, network information collecti
 
 ### 1. System Information Collection
 
-System information was collected using:
-
-```bash
-uname -a
-The current Termux user was checked using
-whoami
-
-हो, काही हरकत नाही 👍 आत्ता screenshots upload करू नकोस. GitHub चा photo/file upload access बंद असेल तर project थांबवायची गरज नाही.
-
-आपण आत्तापर्यंतचे हे files complete ठेवू:
-
-SOC-SIEM-Android/
-├── README.md
-├── security-events.log
-├── alerts.log
-├── incident-report.txt
-└── screenshots/
-    └── README.md
-तुझ्याकडे आधी घेतलेले Termux screenshots फोनमध्ये सुरक्षित ठेव. GitHub upload option पुन्हा available झाला की ते screenshots folder मध्ये upload करू.
-
-आता पुढचा Step 6 करूया — README.md update करून project ची complete माहिती GitHub वर व्यवस्थित दाखवूया.
-
-
-Ok
-
-छान 👍 आता Step 6 — README.md update करूया.
-
-GitHub मध्ये:
-
-SOC-SIEM-Android → README.md → Edit (✏️)
-
-सध्या असलेला README content काढून हा पूर्ण content paste कर:
-
 # SOC/SIEM Security Monitoring & Log Analysis using Android/Termux
 
 ## Project Overview
