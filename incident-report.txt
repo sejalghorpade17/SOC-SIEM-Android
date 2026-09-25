@@ -1,0 +1,29 @@
+SOC INCIDENT ANALYSIS
+
+Project: SOC/SIEM Security Monitoring & Log Analysis
+Environment: Android / Termux
+Log Type: Simulated Security Events
+
+1. Multiple failed login attempts
+Severity: Medium
+Observation: Repeated authentication failures were detected.
+Action: Review authentication logs and verify the user activity.
+
+2. Failed login from 192.168.0.50
+Severity: Medium
+Observation: A failed login attempt was recorded from a private IP address.
+Action: Verify the source device and related authentication activity.
+
+3. Brute-force pattern detected
+Severity: High
+Observation: The simulated log identified a brute-force pattern.
+Action: Investigate the authentication activity and apply account protection measures.
+
+4. Suspicious network activity detected
+Severity: Medium
+Observation: Suspicious network activity was recorded in the simulated log.
+Action: Review related network events and investigate unusual activity.
+
+Conclusion:
+The exercise demonstrated basic SOC alert filtering, severity classification,
+log analysis, incident documentation, and recommended response actions.
