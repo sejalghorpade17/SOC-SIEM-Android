@@ -1,4 +1,4 @@
-# SOC-SIEM-Android
+# SOC-SIEM-
 SOC/SIEM Security Monitoring and Log Analysis using Android and Termux
 # SOC/SIEM Security Monitoring & Log Analysis using Android/Termux
 
