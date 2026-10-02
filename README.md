@@ -142,39 +142,7 @@ Author
 Sejal Pramod Ghorpade
 
 B.Com IT Graduate
-Cybersecurity Learner
-
-
-### शेवटी
-
-README save करण्यासाठी **Commit changes** करा.
-
-Commit message:
-
-```text
-Update project documentation
-✅ हे झाल्यावर तुझा SOC/SIEM GitHub project मुख्यतः complete आहे.
-
-Screenshots upload access परत मिळाल्यावर फक्त screenshots folder मध्ये screenshots add करायचे आहेत.
-
-
-Kay kay copy karun tithe paste karayach ahe
-
-हो 👍 GitHub च्या README.md मध्ये फक्त खालील पूर्ण content copy करून paste करायचा आहे.
-
-काय करायचं:
-
-GitHub → SOC-SIEM-Android
-
-README.md उघड
-
-✏️ Edit करा
-
-आतला जुना content असेल तर select करून delete करा
-
-खालील पूर्ण मजकूर copy-paste करा:
-
-# SOC/SIEM Security Monitoring & Log Analysis using Android/Termux
+Cybersecurity Learning 
 
 ## Project Overview
 
